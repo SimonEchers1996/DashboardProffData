@@ -8,7 +8,7 @@ import plotly.express as px
 For loading initially. This is where the economic data, the geodata and the industry names are loaded.
 """
 tables = {
-    " ".join(branche.split()[1:]):pd.read_csv("DashboardProffData/BrancheDatasætTilBrug/"+" ".join((branche.split()[1:])).replace(' ','_')+".csv") for branche in NACE_2025_kunder
+    " ".join(branche.split()[1:]):pd.read_csv("BrancheDatasætTilBrug/"+" ".join((branche.split()[1:])).replace(' ','_')+".csv") for branche in NACE_2025_kunder
 }
 brancher = [" ".join(x.split()[1:]) for x in NACE_2025_kunder]
 with open('municipalities_for_python.geojson') as geo_json:
