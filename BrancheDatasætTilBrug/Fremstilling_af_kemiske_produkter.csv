@@ -1,0 +1,343 @@
+Juridisk navn,Adresse,Kommune,Startdato,Antal ansatte,Størrelse,Selskabsform,CVR-nr,Selskabskapital,Bruttofortjeneste,Valuta,År for beregning,Kunde,Coating kunde,NACE-2,"Fremstilling af sæbe, rengørings- og rensemidler samt poleremidler",Fremstilling af andre organiske basiskemikalier,"Fremstilling af parfume, hårshampoo, tandpasta mv.",Fremstilling af andre kemiske produkter i.a.n.,Fremstilling af plast i ubearbejdet form,Fremstilling af gødningsstoffer og nitrogenprodukter,"Fremstilling af maling, lak og lignende overfladebehandlingsmidler, trykfarver samt tætningsmaterialer",Fremstilling af industrigasser,"Fremstilling af pesticider, desinfektionsmidler og andre agrokemiske produkter",Fremstilling af kemofibre,Fremstilling af andre uorganiske basiskemikalier,Fremstilling af farvestoffer og pigmenter,Fremstilling af flydende biobrændstoffer
+Vertanical Denmark ApS,"Birketvedvejen 31, 5290 Marslev",Kerteminde,01.02.2019,22.0,Lille,Anpartsselskab,40227792,8.0,34916000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RIEMANN A/S,"Krakasvej 8, 3400 Hillerød",Hillerød,12.01.1990,71.0,Mellemstor,Aktieselskab,13844070,1.0,96200000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DuPont de Nemours Denmark ApS,"Engdalsvej 96 B, 8220 Brabrand",Århus,23.01.2020,3.0,Mikro,Anpartsselskab,41119136,41.0,6034000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Balgårde Landhandel ApS,"Balgårdsvej 36, 8981 Spentrup",Randers,07.12.2021,1.0,Mikro,Anpartsselskab,42903825,40.0,226000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DANSK AFFALDSMINIMERING ApS,"Industriparken 2, 8870 Langå",Favrskov,16.05.2011,10.0,Lille,Anpartsselskab,33649142,397.0,8164000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A/S ORTHANA KEMISK FABRIK,"Englandsvej 350-356, 2770 Kastrup",Tårnby,07.03.1934,40.0,Lille,Aktieselskab,15248912,1.0,25417000.0,DKK,2024.0,0,0,20,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+COSBORG A/S,"Dampfærgevej 24 C 3 th, 2100 København Ø",København,01.10.1996,1.0,Mikro,Aktieselskab,19624706,500.0,397000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+STRANDMØLLEN A/S,"Strandvejen 895, 2930 Klampenborg",Lyngby-Taarbæk,01.01.1990,133.0,Mellemstor,Aktieselskab,13913072,10.0,106225000.0,DKK,2023.0,1,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Solar Park Kassø ApS,"Kassøvej 23, 6230 Rødekro",Aabenraa,24.01.2020,27.0,Lille,Anpartsselskab,41125411,100.0,147039000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+HANJA PLAST ApS,"Hornsyld Industrivej 3, 8783 Hornsyld",Hedensted,21.12.2005,5.0,Mikro,Anpartsselskab,29212341,125.0,2051000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+POLAR A/S,"Hylkevej 31, 8660 Skanderborg",Skanderborg,14.06.2010,11.0,Lille,Aktieselskab,33036566,2.5,10890000.0,DKK,2024.0,0,0,20,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cytiva Denmark Manufacturing ApS,"Strandhaven 12, 2665 Vallensbæk Strand",Vallensbæk,01.01.1999,21.0,Lille,Anpartsselskab,21595888,150.0,-39989000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PRO-REN A/S,"Springstrup 7, 4300 Holbæk",Holbæk,22.11.2006,18.0,Lille,Aktieselskab,30069935,700.0,11185000.0,DKK,2023.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PHARMA-TRADE A/S,"Skaaremosevej 11-14, 3230 Græsted",Gribskov,11.04.1984,Ikke oplyst,Ikke oplyst,Aktieselskab,87339815,3.0,0.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ZP Group ApS,"Saunte Bygade 46 A st, 3100 Hornbæk",Helsingør,01.11.2013,15.0,Lille,Anpartsselskab,35525505,80.0,55543000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Americhem Europe A/S,"Bohrsvej 8, 6760 Ribe",Esbjerg,26.04.2000,74.0,Mellemstor,Aktieselskab,25352440,1.429,36870000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lars Frey ApS,"Torvet 1 2 mf, 4100 Ringsted",Ringsted,21.08.2020,4.0,Mikro,Anpartsselskab,41604859,40.0,1247000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+RoscoPharm ApS,"Gentoftegade 56 B 1, 2820 Gentofte",Gentofte,02.08.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43431102,40.0,,nan,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ORGANIC BEAUTY APS,"Egehegnet 21, 7300 Jelling",Vejle,18.09.2014,Ikke oplyst,Ikke oplyst,Anpartsselskab,36393440,40.0,,nan,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DK BEAUTY A/S,"Peder Larsens Vej 3, 7330 Brande",Ikast-Brande,19.01.2015,9.0,Mikro,Aktieselskab,36493151,500.0,2797000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UNIPAK A/S,"Marktoften 3 C, 8464 Galten",Skanderborg,03.12.1996,19.0,Lille,Aktieselskab,19676609,4.0,24215000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+HBS CITY ApS,"Tornebuskegade 3, 1131 København K",København,20.12.2004,Ikke oplyst,Ikke oplyst,Anpartsselskab,28333684,125.0,15000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SPARMED ApS,"Ryttermarken 2, 3520 Farum",Furesø,19.09.2007,26.0,Lille,Anpartsselskab,30898575,125.0,19005000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+DANKEMI A/S,"Venusvej 24, 6000 Kolding",Kolding,01.01.1990,20.0,Lille,Aktieselskab,13892733,1.0,23424000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sodran A/S,"Elbjergvej 8, 8420 Knebel",Syddjurs,22.12.1988,2.0,Mikro,Aktieselskab,12723644,500.0,13238000.0,DKK,2024.0,0,0,20,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lucia Care ApS,"Skt. Anne Plads 2 3, 5000 Odense C",Odense,29.06.2021,6.0,Mikro,Anpartsselskab,42499781,44.0,-912000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SIKA DANMARK A/S,"Hirsemarken 5, 3520 Farum",Furesø,01.10.1960,76.0,Mellemstor,Aktieselskab,55188114,7.0,89477000.0,DKK,2023.0,1,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LITHOINK ApS,"Strandgårds Alle 64, 3600 Frederikssund",Frederikssund,01.04.2012,2.0,Mikro,Anpartsselskab,34473501,80.0,455000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOCORRECTION A/S,"Amager Strandvej 60, 2300 København S",København,16.09.2004,Ikke oplyst,Ikke oplyst,Aktieselskab,27958362,515.0,-21000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ROC DANMARK ApS,"Dunkærgade 16, 5970 Ærøskøbing",Ærø,13.12.1993,6.0,Mikro,Anpartsselskab,17478184,130.0,1820000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DB Danmark A/S,"Håndværkervej 6, 8840 Rødkærsbro",Viborg,08.10.2020,1.0,Mikro,Aktieselskab,41745193,400.0,1187000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EMMELEV A/S,"Emmelevgyden 25, 5450 Otterup",Nordfyns,08.06.1978,64.0,Mellemstor,Aktieselskab,54449712,20.5,199838000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KU Dyes ApS,"Universitetsparken 5, 2100 København Ø",København,10.07.2015,Ikke oplyst,Ikke oplyst,Anpartsselskab,36960914,60.0,98000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MIM.dk ApS,"Norgesvej 14, 5700 Svendborg",Svendborg,18.05.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43288687,40.0,,nan,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Puris Scandinavia ApS,"Mosetoften 6, 8722 Hedensted",Hedensted,24.01.2023,5.0,Mikro,Anpartsselskab,43797735,40.0,1602000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+McBride Denmark A/S,"Lægårdvej 90-94, 7500 Holstebro",Holstebro,19.01.1962,273.0,Stor,Aktieselskab,45062813,20.0,90003000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+International N&H Denmark ApS,"Parallelvej 16, 2800 Kongens Lyngby",Lyngby-Taarbæk,09.08.1881,1041.0,Stor,Anpartsselskab,11350356,844.666,1049000000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MASH Makes SPV01 ApS,"Østersøvej 28 A, 2150 Nordhavn",København,16.06.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43331787,400.0,-273000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ByWe A/S,"Virkeholm 3 B st, 2730 Herlev",Herlev,14.09.2017,8.0,Mikro,Aktieselskab,38937677,500.0,6983000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RIBOTASK ApS,"Blækhatten 33, 5220 Odense SØ",Odense,17.08.2006,2.0,Mikro,Anpartsselskab,29789983,126.0,110000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jysk Kemi Service A/S,"Gl Struervej 50, 7500 Holstebro",Holstebro,28.04.2015,18.0,Lille,Aktieselskab,36729414,1.0,10478000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NEW FUEL A/S,"Agro Food Park 13, 8200 Aarhus N",Århus,14.01.2015,Ikke oplyst,Ikke oplyst,Aktieselskab,36501928,500.0,467000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bada ApS,"Egevej 45, 4000 Roskilde",Roskilde,09.09.2018,1.0,Mikro,Anpartsselskab,39845369,40.0,134000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fejø Krabber ApS,"Herredsvej 210, 4944 Fejø",Lolland,18.02.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40298932,40.0,,nan,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Epic Oils ApS,"Kalvehave Mark 31, 4771 Kalvehave",Vordingborg,22.02.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43079107,40.0,-66000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CHEMINOVA A/S,"Thyborønvej 78, 7673 Harboøre",Lemvig,01.01.1989,544.0,Stor,Aktieselskab,12760043,300.0,124675000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+MORGENFRUERNE PÅ LÆSØ ApS,"Storhavevej 4, 9940 Læsø",Læsø,07.01.2008,Ikke oplyst,Ikke oplyst,Anpartsselskab,31171741,126.0,-25000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NORTH CLEAN TECNOLOGY ApS,"Voddervej 1, 6780 Skærbæk",Tønder,15.04.2004,Ikke oplyst,Ikke oplyst,Anpartsselskab,27723616,125.0,172000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FLEX GØDNING A/S,"Masnedøvej 63, 4760 Vordingborg",Vordingborg,06.08.1971,Ikke oplyst,Ikke oplyst,Aktieselskab,33839618,1.0,2566000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hyphox ApS,"Gammel Holtevej 108 C, 2840 Holte",Rudersdal,15.11.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40939008,40.0,-4000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Borealis Denmark ApS,"Lautrupsgade 11, 2100 København Ø",København,25.10.2018,1.0,Mikro,Anpartsselskab,39976951,30.0,2296000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gundal ApS,"Højagervej 6, 6623 Vorbasse",Billund,30.06.2022,12.0,Lille,Anpartsselskab,43362151,160.0,6788000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+First Ammonia Denmark ApS,"Havnegade 39, 1058 København K",København,26.10.2022,1.0,Mikro,Anpartsselskab,43612875,40.0,1626000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MASAVA KEMI ApS,"Bodøvej 12, 5700 Svendborg",Svendborg,29.01.2004,5.0,Mikro,Anpartsselskab,27567274,750.0,1734000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DAMTRADE A/S,"Havnepladsen 3 A st th, 5700 Svendborg",Svendborg,21.01.1997,Ikke oplyst,Ikke oplyst,Aktieselskab,19781879,500.0,-18000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+PROMAL A/S,"Joachim Wellers Vej 27, 7500 Holstebro",Holstebro,05.02.1998,18.0,Lille,Aktieselskab,20669438,1.004,15488000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Selskabet af 01.10.2024 ApS,"Adelers Alle 155, 4540 Fårevejle",Odsherred,14.07.2014,16.0,Lille,Anpartsselskab,36047720,50.0,6550000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Affycon ApS,"Espedalen 89, 8240 Risskov",Århus,01.09.2015,Ikke oplyst,Ikke oplyst,Anpartsselskab,37049794,72.0,3000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Buffalo Food ApS,"Gødstrupvej 2, 7400 Herning",Herning,15.08.2018,1.0,Mikro,Anpartsselskab,39785781,50.0,476000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mellow Mind ApS,"Søgade 49, 6000 Kolding",Kolding,17.02.2015,1.0,Mikro,Anpartsselskab,36550899,40.0,172000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ILBJERG FYRVÆRKERI FABRIK ApS,"Ilbjergvej 6, 7870 Roslev",Skive,01.07.2011,Ikke oplyst,Ikke oplyst,Anpartsselskab,33778023,80.0,43000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sæberiet Ærø ApS,"Vester Bregninge 31, 5970 Ærøskøbing",Ærø,12.08.2020,3.0,Mikro,Anpartsselskab,41588101,250.0,258000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anakof group ApS,"Sjællandsvej 7, 9900 Frederikshavn",Frederikshavn,01.07.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43365371,40.0,-40000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NorGuard ApS,"Skibsbyggervej 21, 2660 Brøndby Strand",Brøndby,23.06.2021,Ikke oplyst,Ikke oplyst,Anpartsselskab,42489298,100.0,286000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KRS ApS,"Mandal Alle 9 A, 5500 Middelfart",Middelfart,01.11.2008,Ikke oplyst,Ikke oplyst,Anpartsselskab,31871336,210.0,754000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+STRUERS ApS,"Pederstrupvej 84, 2750 Ballerup",Ballerup,01.11.1991,226.0,Mellemstor,Anpartsselskab,15683309,3.0,506680000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oterra A/S,"Agern Alle 24, 2970 Hørsholm",Hørsholm,01.01.2014,197.0,Mellemstor,Aktieselskab,35638784,9.202,235171000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Rosco Diagnostica ApS,"Stensmosevej 24 A, 2620 Albertslund",Albertslund,06.06.2003,4.0,Mikro,Anpartsselskab,27210341,600.0,2670000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DGT Group ApS,"Kastanievang 2, 3670 Veksø Sjælland",Egedal,05.11.2015,Ikke oplyst,Ikke oplyst,Anpartsselskab,37214426,100.0,0.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lurrell Sustainable Solutions A/S,"Stålvej 3, 6000 Kolding",Kolding,01.10.2020,Ikke oplyst,Ikke oplyst,Aktieselskab,41726490,1.0,-110000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aks2tal ApS,"Fruervej 9, 4621 Gadstrup",Roskilde,09.06.2022,5.0,Mikro,Anpartsselskab,43316788,40.0,2439000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CUTISAN LABORATORIUM ApS,"Nordrupvej 88-90, 4100 Ringsted",Ringsted,22.06.1984,1.0,Mikro,Anpartsselskab,76570612,500.0,-16000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nolist ApS,"Højdevej 28, 2670 Greve",Greve,23.06.2021,2.0,Mikro,Anpartsselskab,42490083,40.0,321000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SSI Diagnostica A/S,"Herredsvejen 2, 3400 Hillerød",Hillerød,11.12.2015,132.0,Mellemstor,Aktieselskab,37294535,1.765,107395000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SYNTESE A/S,"Industriholmen 13, 2650 Hvidovre",Hvidovre,31.08.1989,142.0,Mellemstor,Aktieselskab,13456402,2.35,133549000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ReGaia ApS,"Tømmerupvej 166, 2791 Dragør",Tårnby,13.09.2022,2.0,Mikro,Anpartsselskab,43522663,40.0,-1368000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C.P.G. ApS,"Egeløvsvej 14, 2830 Virum",Lyngby-Taarbæk,22.10.1990,Ikke oplyst,Ikke oplyst,Anpartsselskab,14707476,108.0,132000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+DANISH FIBRES ApS,"Snedkervej 3, 6800 Varde",Varde,02.02.2011,28.0,Lille,Anpartsselskab,32321895,500.0,5497000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Flügger Denmark A/S,"Islevdalvej 151, 2610 Rødovre",Rødovre,24.03.1954,321.0,Stor,Aktieselskab,45240118,15.5,329108000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+danBlue ApS,"Venusvej 24, 6000 Kolding",Kolding,23.02.2017,Ikke oplyst,Ikke oplyst,Anpartsselskab,38445944,50.0,2466000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BNC PRODUCTS ApS,"Vestervænget 24, 6710 Esbjerg V",Esbjerg,25.06.1974,2.0,Mikro,Anpartsselskab,50056511,300.0,-89000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+STERLING POLISH COMPANY A/S,"Nybrovej 95, 2820 Gentofte",Gentofte,01.04.2008,12.0,Lille,Aktieselskab,30510895,500.0,6528000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NYMANN KEMI A/S,"Frellingvej 32, 8560 Kolind",Syddjurs,01.12.1989,Ikke oplyst,Ikke oplyst,Aktieselskab,13671087,500.0,1456000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GC & C ApS - Gjelstrup Consulting & Capital,"Ferrarivej 12, 7100 Vejle",Vejle,13.12.2018,Ikke oplyst,Ikke oplyst,Anpartsselskab,40096574,50.0,1076000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coatable A/S,"Knud Bro Alle 7 B, 3660 Stenløse",Egedal,06.08.2021,2.0,Mikro,Aktieselskab,42590169,1.571,,nan,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Porcelain Perfumery ApS,"Sankt Annæ Plads 2 st, 1250 København K",København,10.01.2019,1.0,Mikro,Anpartsselskab,40167730,111.0,205000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SCHMIDT NIELSEN FARVE- OG LAKFABRIK ApS,"Gjellerupvej 104, 8220 Brabrand",Århus,05.12.1974,Ikke oplyst,Ikke oplyst,Anpartsselskab,51107217,200.0,-393000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Birk Denmark ApS,"Grynderupvej 46, 7870 Roslev",Skive,09.04.2019,1.0,Mikro,Anpartsselskab,40437770,50.0,170000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alflex Service Aps.,"Mosevangen 1, 8653 Them",Silkeborg,17.08.2018,6.0,Mikro,Anpartsselskab,39794748,50.0,84000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+IDUNA A/S,"Blokken 25 A, 3460 Birkerød",Rudersdal,01.06.1976,24.0,Lille,Aktieselskab,58563811,510.0,7699000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bollerup Jensen Adhesives Holding ApS,"Bindesbølvej 16-20, 6880 Tarm",Ringkøbing-Skjern,22.12.2011,Ikke oplyst,Ikke oplyst,Anpartsselskab,34091463,80.0,-14000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+DANSK SUPER VOKS A/S,"H P Christensens Vej 1, 3000 Helsingør",Helsingør,29.12.1976,1.0,Mikro,Aktieselskab,44622815,500.0,187000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SPARMASAN ApS,"Fjordvej 19, 8930 Randers NØ",Randers,24.10.2014,7.0,Mikro,Anpartsselskab,36418125,40.0,1717000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Linde Gas A/S,"Lautruphøj 6, 2750 Ballerup",Ballerup,15.03.1915,96.0,Mellemstor,Aktieselskab,10290511,22.0,319082000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Master Builders Solutions Denmark A/S,"Hallandsvej 1, 6230 Rødekro",Aabenraa,14.05.2020,23.0,Lille,Aktieselskab,41387645,400.0,113633000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DAN - KIT ApS,"Svendebrevet 4, 3230 Græsted",Gribskov,16.10.1981,2.0,Mikro,Anpartsselskab,67380517,125.0,1355000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Molly Corker ApS,"Ravnebakkevej 4 A, 3490 Kvistgård",Helsingør,15.07.2021,Ikke oplyst,Ikke oplyst,Anpartsselskab,42548650,40.0,-109000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kolding Stenhuggeri og Gravsten ApS,"Industrivej 3, 6000 Kolding",Kolding,21.09.2015,6.0,Mikro,Anpartsselskab,37100307,50.0,1364000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indorama Ventures Hygiene Denmark A/S,"Engdraget 22, 6800 Varde",Varde,26.08.1971,190.0,Mellemstor,Aktieselskab,33487819,152.067,8442000.0,DKK,2023.0,1,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+CREATE DEMAND INTERNATIONAL ApS,"Hejselbækvej 7, 9881 Bindslev",Hjørring,01.02.2014,Ikke oplyst,Ikke oplyst,Anpartsselskab,32325831,40.0,-34000.0,DKK,2023.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SIRENA SOAP ApS,"Bygmestervej 7, 9560 Hadsund",Mariagerfjord,01.09.1993,17.0,Lille,Anpartsselskab,17263447,200.0,9182000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ALFIX A/S,"H.C. Ørsteds Vej 13, 6000 Kolding",Kolding,29.11.1984,48.0,Lille,Aktieselskab,76443815,5.0,53367000.0,DKK,2024.0,1,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BRIFA MALING A/S,"Lundtoftegårdsvej 91, 2800 Kongens Lyngby",Lyngby-Taarbæk,01.10.1979,Ikke oplyst,Ikke oplyst,Aktieselskab,89700116,11.2,1347000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+WeeCare ApS,"Sverkilstrupvejen 19, 3390 Hundested",Halsnæs,03.09.2018,Ikke oplyst,Ikke oplyst,Anpartsselskab,39830469,40.0,20000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CHAMPOST ApS,"Gærupvej 11, 7752 Snedsted",Thisted,28.02.2003,15.0,Lille,Anpartsselskab,27042279,150.0,5689000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SæbeRiget ApS,"Hovej 13, 6857 Blåvand",Varde,28.10.2008,3.0,Mikro,Anpartsselskab,31850029,63.0,306000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FLH Agro ApS,"Kragelundvej 21, 8600 Silkeborg",Silkeborg,29.02.2020,Ikke oplyst,Ikke oplyst,Anpartsselskab,41248882,40.0,44000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+NOVOZYMES A/S,"Krogshøjvej 36, 2880 Bagsværd",Gladsaxe,13.11.2000,3091.0,Stor,Aktieselskab,10007127,936.597,9722000000.0,DKK,2023.0,1,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TEKTROL MINERALOLIER A/S,"Bondovej 17, 5250 Odense SV",Odense,01.08.1992,3.0,Mikro,Aktieselskab,16321389,1.5,1327000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Darchitectures ApS,"Reventlowsgade 10 4 tv, 1651 København V",København,28.11.2023,1.0,Mikro,Anpartsselskab,44460106,40.0,-203000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Meliora Bio ApS,"Asnæsvej 16 B, 4400 Kalundborg",Kalundborg,30.03.2020,68.0,Mellemstor,Anpartsselskab,41266589,3.0,-7842000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+DENNIS KNUDSEN PROFESSIONAL PRODUCTS ApS,"Grønningen 51, 4220 Korsør",Slagelse,25.09.2006,1.0,Mikro,Anpartsselskab,30003454,130.0,-856000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+f.R. Kemi ApS,"Tåstruphøj 36, 4300 Holbæk",Holbæk,16.09.1999,4.0,Mikro,Anpartsselskab,24259536,125.0,2773000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nordic Formulation Technology A/S,"Søholm Park 1, 2900 Hellerup",Gentofte,18.04.2017,11.0,Lille,Aktieselskab,38581279,1.0,6970000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bollerup Jensen Wood ApS,"Bindesbølvej 16-20, 6880 Tarm",Ringkøbing-Skjern,22.12.2011,Ikke oplyst,Ikke oplyst,Anpartsselskab,34091471,80.0,-9000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MEDISIS ApS,"Kærvej 34, 9500 Hobro",Mariagerfjord,20.02.2009,1.0,Mikro,Anpartsselskab,32066569,125.0,294000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NOVO NORDISK A/S,"Novo Alle 1, 2880 Bagsværd",Gladsaxe,28.11.1931,32792.0,Stor,Aktieselskab,24256790,446.5,159645000000.0,DKK,2023.0,1,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Topsil GlobalWafers A/S,"Siliciumvej 1, 3600 Frederikssund",Frederikssund,01.07.2016,256.0,Stor,Aktieselskab,37842222,1.0,190016000.0,DKK,2023.0,1,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Dinné ApS,"Ferskenvej 93, 9000 Aalborg",Aalborg,09.06.2018,1.0,Mikro,Anpartsselskab,39631210,50.0,-280000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+COPENHAGEN HYDROGEN NETWORK A/S,"Uraniavej 6, 8700 Horsens",Horsens,02.05.2011,Ikke oplyst,Ikke oplyst,Aktieselskab,33641389,1.0,3738000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+NATULIQUE ApS,"Vester Allé 7, 8000 Aarhus C",Århus,01.01.1998,25.0,Lille,Anpartsselskab,20590599,125.0,9481000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+WESTPHALS FABRIKKER A/S,"Møbjergvej 45, 7260 Sønder Omme",Billund,01.12.2001,11.0,Lille,Aktieselskab,26376181,1.6,2885000.0,DKK,2023.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AM DENMARK A/S,"Heimdalsgade 37 B st, 2200 København N",København,17.01.1985,4.0,Mikro,Aktieselskab,76957118,1.0,1866000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIONUTRIA DENMARK ApS,"Ringvejen 8, 9560 Hadsund",Mariagerfjord,11.01.1999,12.0,Lille,Anpartsselskab,21403644,500.0,7901000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+J.B. MILJØTEKNIK ApS,"Sønderødvej 18, 4291 Ruds Vedby",Sorø,01.01.1991,Ikke oplyst,Ikke oplyst,Anpartsselskab,15006641,125.0,-40000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DenCoat International ApS,"Aabylundvænget 14, 5580 Nørre Aaby",Middelfart,19.01.2022,1.0,Mikro,Anpartsselskab,43018353,40.0,392000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Puresoap ApS,"Byledet 16, 2820 Gentofte",Gentofte,11.07.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40654194,40.0,-4000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KIRK CHEMICALS ApS,"Støberivej 7, 3660 Stenløse",Egedal,01.01.1994,Ikke oplyst,Ikke oplyst,Anpartsselskab,17673602,200.0,-368000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+DOMINATOR TECHNOLOGY ApS,"Mosetoften 1, 8722 Hedensted",Hedensted,17.04.2009,6.0,Mikro,Anpartsselskab,32098614,125.0,2020000.0,DKK,2024.0,1,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+AUSTRALIAN BODYCARE CONTINENTAL 2012 ApS,"Trævænget 14, 5492 Vissenbjerg",Assens,10.02.2012,48.0,Lille,Anpartsselskab,34226261,80.0,45973000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DANA LIM A/S,"Københavnsvej 220, 4600 Køge",Køge,06.02.1974,204.0,Mellemstor,Aktieselskab,49294514,7.5,171497000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+COLLSTROP ANTIFIRE ApS,"Gelballevej 80, 6640 Lunderskov",Kolding,30.01.2014,3.0,Mikro,Anpartsselskab,35655174,80.0,1522000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+RESINO INKS A/S,"Metalbuen 13, 2750 Ballerup",Ballerup,18.12.1984,53.0,Mellemstor,Aktieselskab,76654611,3.1,43940000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karen Krogh ApS,"Østergade 103, 9440 Aabybro",Jammerbugt,02.03.2015,Ikke oplyst,Ikke oplyst,Anpartsselskab,36559071,50.0,60000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alba Beauty Nordic ApS,"Frydenlundsvej 30, 2950 Vedbæk",Rudersdal,01.04.2017,3.0,Mikro,Anpartsselskab,38559397,50.0,11878000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+VeSoe ApS,"Sperrestrupvej 36, 3650 Ølstykke",Egedal,01.06.2016,1.0,Mikro,Anpartsselskab,37780790,50.0,396000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+N2C Production ApS,"Lerbækvej 8, 2680 Solrød Strand",Solrød,02.03.2017,Ikke oplyst,Ikke oplyst,Anpartsselskab,38471740,50.0,123000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NOVADAN ApS,"Platinvej 21, 6000 Kolding",Kolding,08.10.1980,67.0,Mellemstor,Anpartsselskab,63129216,6.0,106656000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PRÆSTRUD & KJELDSMARK ApS,"Fruedalsvej 10, 4682 Tureby",Faxe,16.02.1977,1.0,Mikro,Anpartsselskab,65036614,126.0,655000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Resource Denmark ApS,"Veldbæk Industrivej 18, 6705 Esbjerg Ø",Esbjerg,01.07.2021,44.0,Lille,Anpartsselskab,42515191,100.0,-7340000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HBC Coating ApS,"Hobrovej 963, 9530 Støvring",Rebild,27.02.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40293728,50.0,318000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myresand ApS,"Vendbjergvej 22, 7950 Erslev",Morsø,26.04.2016,Ikke oplyst,Ikke oplyst,Anpartsselskab,37642665,250.0,13000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Made by Mama ApS,"Holte Stationsvej 16, 2840 Holte",Rudersdal,31.03.2017,6.0,Mikro,Anpartsselskab,38538098,2.509,935000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kurm Pharma ApS,"Ferrarivej 12, 7100 Vejle",Vejle,18.12.2017,Ikke oplyst,Ikke oplyst,Anpartsselskab,39181274,50.0,91000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DIAFARM A/S,"Ferrarivej 12, 7100 Vejle",Vejle,06.06.2002,Ikke oplyst,Ikke oplyst,Aktieselskab,26638445,500.0,739000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SCHJERNING FARVER A/S,"Østeralle 21, 8400 Ebeltoft",Syddjurs,03.07.1987,19.0,Lille,Aktieselskab,10911087,1.655,3745000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+RONS ApS,"Forsythiavej 2, 2640 Hedehusene",Høje-Taastrup,12.02.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40253491,50.0,-207000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DAKA DENMARK A/S,"Lundagervej 21, 8722 Hedensted",Hedensted,22.06.2011,255.0,Stor,Aktieselskab,33776039,27.54,31707000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+UNIQUE PRODUCTS ApS,"Gørtlervej 6, 7000 Fredericia",Fredericia,30.06.2006,3.0,Mikro,Anpartsselskab,29689776,125.0,906000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CHEMPILOTS A/S,"Rugmarken 22-24, 3520 Farum",Furesø,01.04.1998,18.0,Lille,Aktieselskab,20944242,1.08,30215000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Umicore Denmark ApS,"Kogle Alle 1, 2970 Hørsholm",Hørsholm,28.08.2017,39.0,Lille,Anpartsselskab,38892304,37.777,58343000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lingit Denmark ApS,"Vietsvej 12, 3760 Gudhjem",Bornholm,30.06.2016,Ikke oplyst,Ikke oplyst,Anpartsselskab,37866083,54.0,112000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Topsoe A/S,"Haldor Topsøes Allé 1, 2800 Kgs. Lyngby",Lyngby-Taarbæk,30.11.1972,1945.0,Stor,Aktieselskab,41853816,386.25,2581000000.0,DKK,2023.0,1,1,20,,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KiiltoClean A/S,"Frederik Plums Vej 2, 5610 Assens",Assens,15.03.1980,91.0,Mellemstor,Aktieselskab,89461014,1.0,55148000.0,DKK,2023.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+USB akvariegødning ApS,"Overlundvej 21, 8830 Tjele",Viborg,14.05.2020,Ikke oplyst,Ikke oplyst,Anpartsselskab,41367725,40.0,,nan,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FLOORCOAT A/S,"Egestubben 4 C, 5270 Odense N",Odense,19.10.2007,Ikke oplyst,Ikke oplyst,Aktieselskab,31066239,500.0,1545000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+WET WIPE A/S,"Vallensbækvej 65, 2625 Vallensbæk",Vallensbæk,01.01.2007,11.0,Lille,Aktieselskab,30207726,500.0,13453000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+BURNBLOCK HOLDING ApS,"Wilders Plads 15 C, 1403 København K",København,11.03.2011,Ikke oplyst,Ikke oplyst,Anpartsselskab,33581076,100.0,240000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+XELLENCE ApS,"Rugvænget 19 E, 2630 Taastrup",Høje-Taastrup,24.02.2014,Ikke oplyst,Ikke oplyst,Anpartsselskab,35669256,50.0,199000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BlackDiamond Squeegee ApS,"Sct Anna Gade 69 C, 3000 Helsingør",Helsingør,14.08.2018,1.0,Mikro,Anpartsselskab,39781492,44.0,221000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+WAGONBLAST ApS,"Dommervænget 22 B 1 th, 4000 Roskilde",Roskilde,12.01.2011,Ikke oplyst,Ikke oplyst,Anpartsselskab,33387482,80.0,-43000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+NOWOCOAT INDUSTRIAL A/S,"Stålvej 3, 6000 Kolding",Kolding,03.12.1999,55.0,Mellemstor,Aktieselskab,25067282,1.5,24316000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candy Bulsara Parfums ApS,"Jernbanevej 36, 4450 Jyderup",Holbæk,22.05.2015,Ikke oplyst,Ikke oplyst,Anpartsselskab,36906448,50.0,-76000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BECK & JØRGENSEN A/S,"Rosenkæret 25-29, 2860 Søborg",Gladsaxe,10.02.1941,128.0,Mellemstor,Aktieselskab,63749028,5.0,89216000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+HINNUM PLAST A/S,"Håndværkerbyen 6, 2670 Greve",Greve,01.01.2003,5.0,Mikro,Aktieselskab,10113113,500.0,1286000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+VCE Skadedyrsservice ApS,"Horstedvej 24, 7100 Vejle",Vejle,19.06.2020,Ikke oplyst,Ikke oplyst,Anpartsselskab,41463996,40.0,70000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Alumichem A/S,"Blokken 38, 3460 Birkerød",Rudersdal,02.11.1982,44.0,Lille,Aktieselskab,70895528,4.302,36515000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+AALBORG KEMI ApS,"Kemivej 6, 9310 Vodskov",Aalborg,26.11.1976,1.0,Mikro,Anpartsselskab,59600613,125.0,630000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ingredien A/S,"Rho 4, 8382 Hinnerup",Favrskov,08.07.2009,15.0,Lille,Aktieselskab,32286941,400.0,7543000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HP-MASKING ApS,"Soldalen 1, 7100 Vejle",Vejle,28.08.2006,9.0,Mikro,Anpartsselskab,29778639,125.0,3291000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ARDEX SKANDINAVIA A/S,"Marielundvej 4, 2730 Herlev",Herlev,14.04.1967,44.0,Lille,Aktieselskab,11709214,16.7,56414000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yrolí ApS,"Stationsvej 9, 3480 Fredensborg",Fredensborg,19.04.2021,2.0,Mikro,Anpartsselskab,42315036,50.0,-104000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TRINOL A/S,"Søagervej 9, 9500 Hobro",Mariagerfjord,14.11.2006,Ikke oplyst,Ikke oplyst,Aktieselskab,30068572,1.0,5398000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Silikatteknik ApS,"Stenbjergvej 3 B, 8410 Rønde",Syddjurs,13.12.2021,Ikke oplyst,Ikke oplyst,Anpartsselskab,42911070,40.0,67000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+NORDKEMI DANMARK ApS,"Marinebuen 15, 4700 Næstved",Næstved,23.12.2002,7.0,Mikro,Anpartsselskab,10123623,125.0,2865000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Myco4Food ApS,"Ole Maaløes Vej 3, 2200 København N",København,10.02.2022,4.0,Mikro,Anpartsselskab,43071823,40.0,509000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+HYDRO-X A/S,"Tylstrupvej 50, 9320 Hjallerup",Brønderslev-Dronninglund,16.03.1970,4.0,Mikro,Aktieselskab,29207518,600.0,6965000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Waves Studios ApS,"Amalievej 14, 1875 Frederiksberg C",Frederiksberg,21.06.2021,Ikke oplyst,Ikke oplyst,Anpartsselskab,42479055,40.0,-292000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+handmadecosmetic ApS,"Gørtlervej 6, 7000 Fredericia",Fredericia,04.11.2020,Ikke oplyst,Ikke oplyst,Anpartsselskab,41865237,45.0,18000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AKTIESELSKABET EINAR WILLUMSEN,"Abildager 23-25, 2605 Brøndby",Brøndby,18.01.1930,96.0,Mellemstor,Aktieselskab,10343216,6.0,37105000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sature A/S,"Bindesbølvej 16, 6880 Tarm",Ringkøbing-Skjern,24.08.2022,Ikke oplyst,Ikke oplyst,Aktieselskab,43472305,500.0,-805000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SANI-SHINE ApS,"Gulspurvevej 11, 3400 Hillerød",Hillerød,01.11.1988,1.0,Mikro,Anpartsselskab,12668473,80.0,445000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+WOCA Denmark A/S,"Tværvej 6, 6640 Lunderskov",Kolding,06.02.2004,57.0,Mellemstor,Aktieselskab,27599028,10.0,46608000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bollerup Jensen Retail A/S,"Bindesbølvej 16, 6880 Tarm",Ringkøbing-Skjern,16.01.2019,Ikke oplyst,Ikke oplyst,Aktieselskab,40183485,2.0,47000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ALLISON A/S,"Finn Thostrup Engen 1, 9500 Hobro",Mariagerfjord,01.06.1989,60.0,Mellemstor,Aktieselskab,13216002,3.125,23594000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Juhldal ApS,"Nordre Fasanvej 190 B 2 tv, 2000 Frederiksberg",Frederiksberg,29.03.2016,1.0,Mikro,Anpartsselskab,37570222,50.0,749000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bodyologist ApS,"Jernbane Alle 55, 3060 Espergærde",Helsingør,03.06.2021,2.0,Mikro,Anpartsselskab,42444014,40.0,849000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+JPH EJENDOMME ApS,"Morbærhaven 22, 5450 Otterup",Nordfyns,20.06.2006,Ikke oplyst,Ikke oplyst,Anpartsselskab,29622655,125.0,397000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DLC AF 2006 ApS,"Landskronagade 48 A, 2100 København Ø",København,24.09.2006,Ikke oplyst,Ikke oplyst,Anpartsselskab,29804664,125.0,-40000.0,DKK,2023.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ESTI CHEM A/S,"Erhvervsparken 16, 4621 Gadstrup",Roskilde,02.03.1988,22.0,Lille,Aktieselskab,11992099,3.6,22208000.0,DKK,2023.0,0,0,20,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MorGen Energy ApS,"Borgergade 38 1, 6700 Esbjerg",Esbjerg,23.07.2021,16.0,Lille,Anpartsselskab,42560014,13.0,-7259000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Y.E.S. ApS,"Skovgårdsvej 1, 4560 Vig",Odsherred,01.07.2009,Ikke oplyst,Ikke oplyst,Anpartsselskab,32289207,210.0,-11000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+VEPIDAN ApS,"Østerbrogade 23, 9670 Løgstør",Vesthimmerland,01.06.1993,33.0,Lille,Anpartsselskab,17077848,200.0,5818000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Dansk Biofiber og Gødning A/S,"Viderupgårdsvej 15 B, 9240 Nibe",Aalborg,25.10.2019,6.0,Mikro,Aktieselskab,40897739,1.1,3812000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S.K. 1 ApS,"Villavej 4 A, 7400 Herning",Herning,16.09.2003,2.0,Mikro,Anpartsselskab,27344593,40.0,502000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ELDON BIOLOGICALS A/S,"Sandtoften 10, 2820 Gentofte",Gentofte,10.08.2002,13.0,Lille,Aktieselskab,26747007,500.0,14865000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DAMSON PAINT ApS,"Søbrovej 24, 5683 Haarby",Assens,08.01.2005,Ikke oplyst,Ikke oplyst,Anpartsselskab,28327684,125.0,33000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKOVGAARD & FRYDENSBERG PRODUKTION ApS,"Havneholmen 42 2 tv, 1561 København V",København,01.05.1998,Ikke oplyst,Ikke oplyst,Anpartsselskab,21077143,125.0,57000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+NitroVolt ApS,"Maskinvej 5, 2860 Søborg",Gladsaxe,28.06.2023,11.0,Lille,Anpartsselskab,44157969,54.0,1329000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croda Denmark A/S,"Elsenbakken 23, 3600 Frederikssund",Frederikssund,01.08.2014,118.0,Mellemstor,Aktieselskab,36058714,500.0,107136000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+MELLISA NATURKOSMETIK ApS,"Hørsholm Kongevej 21, 2970 Hørsholm",Hørsholm,17.05.1993,2.0,Mikro,Anpartsselskab,16998672,200.0,288000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ecoblaq ApS,"Sønder Boulevard 83 3 th, 1720 København V",København,13.12.2022,2.0,Mikro,Anpartsselskab,43707604,40.0,-79000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOSA ApS,"Sonnerupvej 41, 3300 Frederiksværk",Halsnæs,01.01.2002,12.0,Lille,Anpartsselskab,26453844,125.0,5194000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SIMI A/S,"Gammelgårdsvej 67, 3520 Farum",Furesø,15.05.1977,10.0,Lille,Aktieselskab,80924119,500.0,4014000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nova Newtech ApS,"Havnevej 25, 3300 Frederiksværk",Halsnæs,15.11.2016,Ikke oplyst,Ikke oplyst,Anpartsselskab,38182528,50.0,343000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+BRENNTAG NORDIC A/S,"Borupvang 5 B, 2750 Ballerup",Ballerup,22.10.1999,138.0,Mellemstor,Aktieselskab,24994589,6.206,295067000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Skovgaard Energy A/S,"Havnen 66, 7620 Lemvig",Lemvig,07.10.1999,37.0,Lille,Aktieselskab,24205371,400.0,-12447000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KUNSTSTOF-KEMI. SKANDINAVIA A/S,"Ringvejen 70, 7900 Nykøbing M",Morsø,27.10.1972,83.0,Mellemstor,Aktieselskab,46198816,600.0,76319000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+DAKA ECOMOTION A/S,"Lundagervej 21, 8722 Hedensted",Hedensted,01.01.2009,Ikke oplyst,Ikke oplyst,Aktieselskab,31934095,600.0,30814000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+MIRA BYGGEPRODUKTER A/S,"Egegårdsvej 2, 4621 Gadstrup",Roskilde,06.03.1959,48.0,Lille,Aktieselskab,39581914,3.146,29712000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+KULTUR Holding ApS,"Ahornvej 15, 8240 Risskov",Århus,16.03.2018,Ikke oplyst,Ikke oplyst,Anpartsselskab,39439816,110.0,-6000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SAMSON ENVIRO INDUSTRIES ApS,"Hjortevænget 83, 2880 Bagsværd",Gladsaxe,12.03.2008,1.0,Mikro,Anpartsselskab,31327164,125.0,1171000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nikotino ApS,"Næsbyvej 64, 9681 Ranum",Vesthimmerland,12.09.2016,Ikke oplyst,Ikke oplyst,Anpartsselskab,38035525,50.0,64000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AIR LIQUIDE DANMARK A/S,"Uraniavej 6, 8700 Horsens",Horsens,23.11.1962,167.0,Mellemstor,Aktieselskab,15036117,44.0,194515000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Strandmøllen CO2 A/S,"Strandvejen 895, 2930 Klampenborg",Lyngby-Taarbæk,15.04.2004,1.0,Mikro,Aktieselskab,27691374,1.1,4177000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Floorcoat Oils & Colours ApS,"Egestubben 4 C, 5270 Odense N",Odense,19.10.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43593714,40.0,207000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+PH PLASTIC RECYCLING ApS,"Huginsvej 22, 4100 Ringsted",Ringsted,31.03.2022,20.0,Lille,Anpartsselskab,43166131,80.0,6163000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kant Cosmetics ApS,"Amaliegade 16 C 1, 1256 København K",København,24.01.2023,Ikke oplyst,Ikke oplyst,Anpartsselskab,43802607,40.0,57000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DAN GØDNING A/S,"Møllebugtvej 9, 7000 Fredericia",Fredericia,01.10.1989,17.0,Lille,Aktieselskab,13495173,14.675,6084000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ENH CHEMICALS ApS,"Jellingvej 15, 9230 Svenstrup J",Aalborg,25.09.1990,Ikke oplyst,Ikke oplyst,Anpartsselskab,14529195,200.0,33000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aalborg Bio Gødning ApS,"Vandetvej 8, 7700 Thisted",Thisted,11.11.2021,Ikke oplyst,Ikke oplyst,Anpartsselskab,42830054,40.0,-2000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NORDIC Cosmetics Production ApS,"Hørskætten 6 A st tv, 2630 Taastrup",Høje-Taastrup,26.11.2020,Ikke oplyst,Ikke oplyst,Anpartsselskab,41888806,40.0,30000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Redivivus Polymers ApS,"Vesterbro 67, 8970 Havndal",Randers,01.10.2019,2.0,Mikro,Anpartsselskab,40829083,900.0,508000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neuprozyme Therapeutics ApS,"Agern Alle 3, 2970 Hørsholm",Hørsholm,19.09.2018,Ikke oplyst,Ikke oplyst,Anpartsselskab,40010106,50.0,-27000.0,DKK,2024.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DERMA PHARM A/S,"Europavej 10, 8990 Fårup",Randers,22.02.1980,140.0,Mellemstor,Aktieselskab,89453119,1.0,106271000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kementec Solutions A/S,"Kuldyssen 10, 2630 Taastrup",Høje-Taastrup,18.12.2000,22.0,Lille,Aktieselskab,25806735,500.0,21125000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ULTRAGLOZZ CO. ApS,"Ekenæsvej 1, 2850 Nærum",Rudersdal,27.12.2004,Ikke oplyst,Ikke oplyst,Anpartsselskab,28308221,125.0,1427000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raz Skincare ApS,"Amagertorv 27 2, 1160 København K",København,31.01.2014,10.0,Lille,Anpartsselskab,35653074,50.0,4298000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Soap Nordic A/S,"Viborgvej 13, 4800 Nykøbing F",Guldborgsund,10.11.2004,41.0,Lille,Aktieselskab,28153635,500.0,19165000.0,DKK,2023.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Danfuel ApS,"Venusvej 24, 6000 Kolding",Kolding,15.03.2016,Ikke oplyst,Ikke oplyst,Anpartsselskab,37538833,50.0,-10000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PROTOX ApS,"Fabriksvej 19, 6000 Kolding",Kolding,05.07.2002,15.0,Lille,Anpartsselskab,26689228,125.0,15607000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+URTEGAARDEN ApS,"Aldershvilevej 1, 8961 Allingåbro",Norddjurs,19.12.1989,11.0,Lille,Anpartsselskab,13712506,200.0,8757000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FYNS COATING ApS,"Gemalvej 15, 5771 Stenstrup",Svendborg,12.09.1996,18.0,Lille,Anpartsselskab,19496198,200.0,18279000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+HK KONCEPT OG PRODUKT ApS,"Amaliegade 42 st, 1256 København K",København,07.07.2013,12.0,Lille,Anpartsselskab,35399852,80.0,-42923000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bollerup Jensen Adhesives ApS,"Bindesbølvej 16-20, 6880 Tarm",Ringkøbing-Skjern,22.12.2011,Ikke oplyst,Ikke oplyst,Anpartsselskab,34091498,4.1,-3043000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+UNIZYME LABORATORIES A/S,"Agern Alle 3, 2970 Hørsholm",Hørsholm,01.01.1990,2.0,Mikro,Aktieselskab,13917094,500.0,-406000.0,DKK,2024.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AEROPAK A/S,"Aldumvej 1, 8722 Hedensted",Hedensted,01.01.1974,27.0,Lille,Aktieselskab,46500911,500.0,24539000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boë Beauté ApS,"Raffinaderivej 8 B, 2300 København S",København,30.11.2016,Ikke oplyst,Ikke oplyst,Anpartsselskab,38220489,58.0,83000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NORDCOLL A/S,"Egeskovvej 12, 3490 Kvistgård",Helsingør,01.10.1989,13.0,Lille,Aktieselskab,13596433,36.0,6236000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nordic Sense A/S,"Mads Clausens Vej 1, 8600 Silkeborg",Silkeborg,01.08.1988,65.0,Mellemstor,Aktieselskab,12376839,556.0,32537000.0,DKK,2024.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MAYKKER Products ApS,"Sct Anna Gade 69 C, 3000 Helsingør",Helsingør,15.08.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40716548,40.0,245000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yuaia Haircare ApS,"Hedeparken 14, 7870 Roslev",Skive,08.04.2021,7.0,Mikro,Anpartsselskab,42287520,100.0,778000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NOPA NORDIC A/S,"Finn Thostrup Engen 1, 9500 Hobro",Mariagerfjord,29.12.1972,254.0,Stor,Aktieselskab,42559210,599.0,205748000.0,DKK,2024.0,0,0,20,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LJUNGDAHL A/S,"Hejrevang 22, 3450 Allerød",Allerød,28.10.1972,15.0,Lille,Aktieselskab,42421618,1.2,12764000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+LGC Biosearch Technologies A/S,"Sønderskovvej 5, 8520 Lystrup",Århus,01.12.2012,44.0,Lille,Aktieselskab,34884900,500.0,46253000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Linolie & Pigment A/S,"Øsbygade 46 A, 6100 Haderslev",Haderslev,20.02.2020,14.0,Lille,Aktieselskab,41189932,500.0,6847000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Retrawl ApS,"Gammel Landevej 1-3, 7620 Lemvig",Lemvig,12.07.2016,Ikke oplyst,Ikke oplyst,Anpartsselskab,37870994,50.0,126000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ILKA ApS,"Ny Mårumvej 89, 3230 Græsted",Gribskov,20.09.1985,Ikke oplyst,Ikke oplyst,Anpartsselskab,79154814,200.0,2390000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Grolman Nordic Specialty Chemicals ApS,"Skæringvej 88, 8520 Lystrup",Århus,21.12.2017,5.0,Mikro,Anpartsselskab,39201569,50.0,5018000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AAGE VESTERGAARD LARSEN A/S,"Klostermarken 3, 9550 Mariager",Mariagerfjord,06.12.1976,61.0,Mellemstor,Aktieselskab,34228914,500.0,38561000.0,DKK,2023.0,1,1,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PALSGAARD A/S,"Palsgaardvej 10, 7130 Juelsminde",Hedensted,04.02.2002,370.0,Stor,Aktieselskab,26447038,50.0,405182000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kemi-Tech ApS,"Mosetoften 14, 8722 Hedensted",Hedensted,18.12.2013,18.0,Lille,Anpartsselskab,25659309,80.0,26562000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+AGO ApS,"Sir Lyngbjergvej 2, 7500 Holstebro",Holstebro,23.01.2019,1.0,Mikro,Anpartsselskab,40196811,50.0,1086000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rubio Monocoat Denmark ApS,"Østre Alle 6, 9530 Støvring",Rebild,27.11.2017,3.0,Mikro,Anpartsselskab,39120372,50.0,55000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ISANGS ApS,"Flensborggade 22 kl th, 1669 København V",København,10.09.2014,4.0,Mikro,Anpartsselskab,35893520,50.0,884000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pedersen`s Laboratorium ApS,"Jens Grøns Vej 17, 7100 Vejle",Vejle,15.06.2015,10.0,Lille,Anpartsselskab,36924098,100.0,5095000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PERSANO GROUP A/S,"Skaaremosevej 11-14, 3230 Græsted",Gribskov,21.07.1936,185.0,Mellemstor,Aktieselskab,56000828,6.0,99080000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KJ RePlast ApS,"Hjulmagervej 1, 9320 Hjallerup",Brønderslev-Dronninglund,06.01.2021,2.0,Mikro,Anpartsselskab,41998326,40.0,-1093000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KNUD E. DAN A/S,"Lunikvej 40, 2670 Greve",Greve,02.01.1997,17.0,Lille,Aktieselskab,19655172,510.0,10182000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FAABORG PHARMA A/S,"Markedspladsen 13 A 1, 5600 Faaborg",Faaborg-Midtfyn,15.08.2001,19.0,Lille,Aktieselskab,26190770,1.0,10602000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Apoteksbloggers ApS,"Lergravsvej 70 st tv, 2300 København S",København,28.02.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40324577,40.0,97000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+United Group Manufacturing A/S,"Ferrarivej 12, 7100 Vejle",Vejle,27.10.2020,41.0,Lille,Aktieselskab,41796979,500.0,11452000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+JS Kar Reparationer ApS,"Grønnegade 14, 6700 Esbjerg",Esbjerg,16.02.2016,2.0,Mikro,Anpartsselskab,37454621,40.0,581000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Skøn Skincare ApS,"Bakkegårdsvej 202 F, 3050 Humlebæk",Fredensborg,22.06.2021,6.0,Mikro,Anpartsselskab,42483907,40.0,1238000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DNA DIAGNOSTIC A/S,"Voldbjergvej 14 1, 8240 Risskov",Århus,18.07.1980,14.0,Lille,Aktieselskab,66119815,6.933,14358000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CleanWorks ApS,"Pilestræde 58 6, 1112 København K",København,25.04.2020,Ikke oplyst,Ikke oplyst,Anpartsselskab,41336846,40.0,-15000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NorFalk ApS,"Voldbjergvej 16 st th, 8240 Risskov",Århus,01.02.2022,10.0,Lille,Anpartsselskab,43023233,40.0,-795000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GLUDAN GRUPPEN A/S,"Gothersgade 103 A, 1123 København K",København,21.12.2006,5.0,Mikro,Aktieselskab,29804621,500.0,12168000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+House of Cosmetics ApS,"Olaf Ryes Gade 7 N 1, 6000 Kolding",Kolding,18.05.2022,5.0,Mikro,Anpartsselskab,43270338,40.0,3462000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+OMNICON A/S,"Stødagervej 6, 6400 Sønderborg",Sønderborg,01.09.1994,30.0,Lille,Aktieselskab,18034409,500.0,50956000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Logic Skincare ApS,"Pilevænget 1, 2800 Kongens Lyngby",Lyngby-Taarbæk,30.05.2021,Ikke oplyst,Ikke oplyst,Anpartsselskab,42427993,40.0,-80000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NORDALIM A/S,"Samoavej 1, 8000 Aarhus C",Århus,18.03.1971,13.0,Lille,Aktieselskab,32242715,7.2,12885000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wellington Natural Care ApS,"Lysalleen 564 st th, 4000 Roskilde",Roskilde,23.09.2019,1.0,Mikro,Anpartsselskab,40806970,40.0,-4000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Interstyle ApS,"Kalvebod Brygge 39 5, 1560 København V",København,17.08.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43454730,40.0,-97000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Green Fertilizer Denmark ApS,"Ballesvej 2, 7000 Fredericia",Fredericia,28.12.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43739921,160.0,-4719000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haack Rengøring ApS,"Eskilstrup Vestergade 20, 4863 Eskilstrup",Guldborgsund,27.04.2020,4.0,Mikro,Anpartsselskab,41319143,40.0,851000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PRO-GLUE A/S,"Naurbjergvej 1, 4623 Lille Skensved",Køge,18.12.1969,11.0,Lille,Aktieselskab,11714218,1.0,15886000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PLASTIX A/S,"Gammel Landevej 3, 7620 Lemvig",Lemvig,06.12.2012,25.0,Lille,Aktieselskab,34880646,68.243,9067000.0,DKK,2023.0,1,1,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TEKNOS A/S,"Industrivej 19, 6580 Vamdrup",Kolding,01.12.1978,171.0,Mellemstor,Aktieselskab,85551612,85.0,109436000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+VILOFOSS A/S,"Ballesvej 2, 7000 Fredericia",Fredericia,01.02.1990,135.0,Mellemstor,Aktieselskab,82776214,150.001,108659000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+EFApaint A/S,"Energivej 13, 6700 Esbjerg",Esbjerg,28.11.1991,40.0,Lille,Aktieselskab,15723572,6.0,19129000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fausol Productions A/S,"Industrivej 3 A, 4632 Bjæverskov",Køge,23.08.2016,3.0,Mikro,Aktieselskab,37951242,500.0,1698000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKAN-MEDIC ApS,"Adelgade 27, 8660 Skanderborg",Skanderborg,10.01.1982,4.0,Mikro,Anpartsselskab,89890411,200.0,2359000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FARVEKOMPAGNIET GRANAT ApS,"Møllebækvej 86, 9800 Hjørring",Hjørring,01.10.1998,1.0,Mikro,Anpartsselskab,21239534,125.0,247000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BURNBLOCK ApS,"Wilders Plads 15 C, 1403 København K",København,24.03.2011,7.0,Mikro,Anpartsselskab,33581173,10.0,4776000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karlsson Green ApS,"Onsgårds Tværvej 6 kl, 2900 Hellerup",Gentofte,01.04.2009,Ikke oplyst,Ikke oplyst,Anpartsselskab,32095704,350.0,,nan,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uldgødning Danmark ApS,"Holmedal 25, 8660 Skanderborg",Skanderborg,01.10.2021,Ikke oplyst,Ikke oplyst,Anpartsselskab,42722839,40.0,12000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BLONDE LERUP ApS,"Janumvej 161, 9460 Brovst",Jammerbugt,23.11.1987,Ikke oplyst,Ikke oplyst,Anpartsselskab,11781004,125.0,-13000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DanBroiler A/S,"Frisbækvej 5, 8766 Nørre Snede",Ikast-Brande,01.02.1990,4.0,Mikro,Aktieselskab,13896801,502.0,8634000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AKTIESELSKABET AF 1. JANUAR 1987,"Borupvang 5 B, 2750 Ballerup",Ballerup,05.02.1935,Ikke oplyst,Ikke oplyst,Aktieselskab,14762612,1.0,-95000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BHJ A/S,"Ulsnæs 33, 6300 Gråsten",Sønderborg,01.10.1973,385.0,Stor,Aktieselskab,11423418,48.0,202313000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Floorcoat Innovation ApS,"Egestubben 4 C, 5270 Odense N",Odense,02.12.2019,2.0,Mikro,Anpartsselskab,40983139,40.0,1177000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Genplast A/S,"Svoldrupvej 18, 9640 Farsø",Vesthimmerland,19.03.2020,32.0,Lille,Aktieselskab,41281529,620.0,10301000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hygicare ApS,"Nordre Klintevej 6, 4673 Rødvig Stevns",Stevns,09.04.2015,Ikke oplyst,Ikke oplyst,Anpartsselskab,36712627,50.0,4000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SMUK skincare ApS,"Ved Damhussøen 16 1, 2720 Vanløse",København,16.08.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40716939,40.0,45000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Charlie Heart ApS,"Tjørntvedvej 16, 4295 Stenlille",Sorø,24.08.2016,2.0,Mikro,Anpartsselskab,37955078,50.0,0.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DST-CHEMICALS A/S,"Merkurvej 27 B, 6000 Kolding",Kolding,12.05.1987,29.0,Lille,Aktieselskab,10831237,648.0,52955000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UNILEVER PRODUKTION ApS,"Petersmindevej 30, 5000 Odense C",Odense,02.07.2007,44.0,Lille,Anpartsselskab,30698894,2.871,45626000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NORDISK PERLITE ApS,"Hammersholt Erhvervspark 1-5, 3400 Hillerød",Hillerød,13.10.1976,28.0,Lille,Anpartsselskab,48247717,200.0,26121000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Sacred Earth ApS,"Hobrovej 41, 8830 Tjele",Viborg,19.09.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40800670,40.0,-46000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Midsona Danmark A/S,"Klostermarken 20, 9550 Mariager",Mariagerfjord,01.01.2008,207.0,Mellemstor,Aktieselskab,31493994,6.0,103514000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BOLLERUP JENSEN A/S,"Bindesbølvej 16-20, 6880 Tarm",Ringkøbing-Skjern,01.09.1988,15.0,Lille,Aktieselskab,12516800,600.0,22481000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kyst Care ApS,"Oddervej 35, 4600 Køge",Køge,06.11.2018,Ikke oplyst,Ikke oplyst,Anpartsselskab,40001468,50.0,-22000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyclodex Tech ApS,"Lykkegårdsvej 48, 9210 Aalborg SØ",Aalborg,08.04.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40428208,50.0,-20000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hveiti Ingredients ApS,"Kystvej 26, 8500 Grenaa",Norddjurs,24.09.2019,Ikke oplyst,Ikke oplyst,Anpartsselskab,40816283,64.0,156000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CHR. HANSEN A/S,"Bøge Alle 10-12, 2970 Hørsholm",Hørsholm,01.09.1988,1699.0,Stor,Aktieselskab,12516479,194.101,4924126000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GK PHARMA ApS,"Egøjevej 162 C, 4600 Køge",Køge,22.09.1977,15.0,Lille,Anpartsselskab,81267316,200.0,3214000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+St. Leo ApS,"Trelleborggade 5 st, 2150 Nordhavn",København,11.01.2019,8.0,Mikro,Anpartsselskab,40160043,225.0,1339000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+A.V. PEHRSSON A/S,"Klintehøj Vænge 14, 3460 Birkerød",Rudersdal,21.06.1982,8.0,Mikro,Aktieselskab,71228819,1.0,3808000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KOPPERS DENMARK ApS,"Avernakke 1, 5800 Nyborg",Nyborg,01.07.1987,104.0,Mellemstor,Anpartsselskab,11000738,70.0,75823000.0,DKK,2023.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PPG Coatings Danmark A/S,"Gladsaxevej 300, 2860 Søborg",Gladsaxe,18.12.1995,316.0,Stor,Aktieselskab,18998696,110.0,285366000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+MBM&MAB A/S,"Bilstrupvej 2, 7800 Skive",Skive,01.11.1986,21.0,Lille,Aktieselskab,10485045,1.125,4318000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Victoria Soap Danmark A/S,"Gl. Donsvej 6, 6000 Kolding",Kolding,05.05.2022,1.0,Mikro,Aktieselskab,43246755,500.0,-6346000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NEW-COAT A/S,"Finlandsgade 15 3 th, 2300 København S",København,01.12.1995,1.0,Mikro,Aktieselskab,18942941,500.0,887000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+FYRVÆRKERIFABRIKKEN NORDLYS ApS,"Saltougvej 1, 4943 Torrig L",Lolland,01.11.1990,Ikke oplyst,Ikke oplyst,Anpartsselskab,14700803,125.0,10000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NIPPON GASES DANMARK A/S,"Røde Banke 120, 7000 Fredericia",Fredericia,29.08.1933,96.0,Mellemstor,Aktieselskab,64233610,10.0,163620000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ALPHA PRODUCTS ApS,"Bubbelvej 6, 5592 Ejby",Middelfart,27.06.2002,5.0,Mikro,Anpartsselskab,26675421,125.0,2355000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chemworks ApS,"Mosetoften 6, 8722 Hedensted",Hedensted,13.05.2005,2.0,Mikro,Anpartsselskab,28704437,139.0,2162000.0,DKK,2023.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TEQ Recycling ApS,"Kristensmindevej 2, 4250 Fuglebjerg",Næstved,16.10.2012,Ikke oplyst,Ikke oplyst,Anpartsselskab,34723885,80.0,519000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Halorefine ApS,"Niels Bohrs Vej 6, 6700 Esbjerg",Esbjerg,20.01.2022,2.0,Mikro,Anpartsselskab,42994634,40.0,1021000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NGL NORDIC A/S,"Industriskellet 10, 2635 Ishøj",Ishøj,21.12.1971,10.0,Lille,Aktieselskab,34613311,2.5,9204000.0,DKK,2024.0,1,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BESMA INTERNATIONAL CHEM A/S,"Friis Hansens Vej 6, 7100 Vejle",Vejle,01.09.1981,7.0,Mikro,Aktieselskab,67235711,600.0,5036000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SYTRACKS ApS,"Parkhøjvej 32, 3660 Stenløse",Egedal,13.10.2011,Ikke oplyst,Ikke oplyst,Anpartsselskab,33962975,310.0,185000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caldic Ingredients Denmark A/S,"Mimersvej 1, 8722 Hedensted",Hedensted,30.11.1992,36.0,Lille,Aktieselskab,16545996,4.1,35610000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Topsoe SOEC Production A/S,"Haldor Topsøes Allé 1, 2800 Kongens Lyngby",Lyngby-Taarbæk,14.12.2022,72.0,Mellemstor,Aktieselskab,43707043,400.0,-25000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Danica Skincare ApS,"Krudtværksalleen 20, 3300 Frederiksværk",Halsnæs,11.02.2016,1.0,Mikro,Anpartsselskab,37441821,50.0,16000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+UNIQUE KROP OG SKØNHEDSPLEJE ApS,"Vestergade 3 1, 8800 Viborg",Viborg,04.07.2008,1.0,Mikro,Anpartsselskab,31615747,125.0,753000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NH2 Danmark A/S,"Agern Alle 5 A, 2970 Hørsholm",Hørsholm,11.05.2022,1.0,Mikro,Aktieselskab,43284061,400.0,-622000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Alaska A/S,"Løkkebyvej 12, 5953 Tranekær",Langeland,01.09.2000,32.0,Lille,Aktieselskab,25590627,1.5,20540000.0,DKK,2024.0,0,0,20,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+B6 Nordic A/S,"Tranåsvej 33, 9300 Sæby",Frederikshavn,19.08.1980,47.0,Lille,Aktieselskab,62124814,1.0,27355000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mea-Vitacare ApS,"Strandgården 108, 2680 Solrød Strand",Solrød,08.04.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43191411,40.0,-76000.0,DKK,2023.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FOSROC A/S,"Sundkrogsgade 21, 2100 København Ø",København,01.10.1988,Ikke oplyst,Ikke oplyst,Aktieselskab,47252059,5.0,5951000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+MASH Makes SPV02 ApS,"Østersøvej 28 A, 2150 Nordhavn",København,28.12.2022,Ikke oplyst,Ikke oplyst,Anpartsselskab,43735586,313.0,-627000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LULAB A/S,"Østre Teglværksvej 24, 3450 Allerød",Allerød,01.11.1991,2.0,Mikro,Aktieselskab,15560738,1.0,-2790000.0,DKK,2024.0,0,0,20,,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KERAMAX A/S,"Højvangsvej 31, 4340 Tølløse",Holbæk,30.04.1982,1.0,Mikro,Aktieselskab,68391628,500.0,366000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MASH Makes A/S,"Østersøvej 28 B, 2150 Nordhavn",København,17.09.2015,16.0,Lille,Aktieselskab,37102059,513.0,-12903000.0,DKK,2023.0,0,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Unique Pyrotechnic Denmark ApS,"Industriparken 4 A, 4100 Ringsted",Ringsted,24.11.2022,2.0,Mikro,Anpartsselskab,43665669,40.0,900000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prozymex 2017 ApS,"Agern Alle 3, 2970 Hørsholm",Hørsholm,19.09.2018,Ikke oplyst,Ikke oplyst,Anpartsselskab,40010114,500.0,-34000.0,DKK,2024.0,0,0,20,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GREENF ApS,"Allinggårdsvej 145, 8600 Silkeborg",Silkeborg,21.10.2011,2.0,Mikro,Anpartsselskab,33970463,80.0,791000.0,DKK,2024.0,1,0,20,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ALK-ABELLÓ A/S,"Bøge Alle 6-8, 2970 Hørsholm",Hørsholm,09.08.1961,939.0,Stor,Aktieselskab,63717916,111.412,3552000000.0,DKK,2024.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PHOTOCAT A/S,"Langebjerg 4, 4000 Roskilde",Roskilde,31.07.2009,7.0,Mikro,Aktieselskab,32357903,5.995,6327000.0,DKK,2023.0,0,0,20,,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LKR-Epoxy ApS,"Lidemarksvej 75, 4632 Bjæverskov",Køge,30.05.2016,2.0,Mikro,Anpartsselskab,37766771,50.0,594000.0,DKK,2024.0,0,0,20,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
