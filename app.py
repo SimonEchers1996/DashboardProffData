@@ -1,7 +1,7 @@
 from dash import Dash, html, dcc, callback, Output, Input, dash_table
 import pandas as pd
 import json
-from ScrapingProff.NACEs import NACE_2025_kunder
+from NACEs import NACE_2025_kunder
 import plotly.express as px
 
 """
