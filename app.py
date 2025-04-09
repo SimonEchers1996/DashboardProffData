@@ -145,5 +145,7 @@ def opdater_tabel(branche,underbrancher,sorter,filtrer):
 #     data, color = process_from_category_graph(data,kategori)
 #     return px.histogram(data_frame=data,x=color)
 
+server = app.server
+
 if __name__ == '__main__':
     app.run(debug=True)
