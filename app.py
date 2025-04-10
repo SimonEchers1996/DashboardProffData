@@ -3,6 +3,7 @@ import pandas as pd
 import json
 from NACEs import NACE_2025_kunder
 import plotly.express as px
+import dash_auth
 
 """
 For loading initially. This is where the economic data, the geodata and the industry names are loaded.
@@ -144,6 +145,11 @@ def opdater_tabel(branche,underbrancher,sorter,filtrer):
 #     data = tables[branche]
 #     data, color = process_from_category_graph(data,kategori)
 #     return px.histogram(data_frame=data,x=color)
+
+brugernavn_adgangskode = [
+    ['uddeholm', 'uddeholm6000']
+]
+auth = dash_auth.BasicAuth(app, USERNAME_PASSWORD_PAIRS)
 
 server = app.server
 
