@@ -149,7 +149,7 @@ def opdater_tabel(branche,underbrancher,sorter,filtrer):
 brugernavn_adgangskode = [
     ['uddeholm', 'uddeholm6000']
 ]
-auth = dash_auth.BasicAuth(app, USERNAME_PASSWORD_PAIRS)
+auth = dash_auth.BasicAuth(app, brugernavn_adgangskode)
 
 server = app.server
 
