@@ -147,7 +147,7 @@ def opdater_tabel(branche,underbrancher,sorter,filtrer):
 #     return px.histogram(data_frame=data,x=color)
 
 brugernavn_adgangskode = [
-    ['uddeholm', 'uddeholm6000']
+    ['LeadTheTalent', 'LeadTheTalent6000']
 ]
 auth = dash_auth.BasicAuth(app, brugernavn_adgangskode)
 
