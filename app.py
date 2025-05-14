@@ -68,7 +68,7 @@ app.layout = [
         ],style={'padding-bottom':'0.2in','width':'4in'}),
         html.Div(children=[
             html.Label('Vælg kategori:', style={"font-weight": "bold"}),
-            dcc.Dropdown(['Omsætning', 'Antal virksomheder', 'Kunder', 'Coating kunder'], 'Omsætning', id='kategori', multi=False)
+            dcc.Dropdown(['Omsætning', 'Antal virksomheder'], 'Omsætning', id='kategori', multi=False)
         ],style={'padding-bottom':'0.2in','width':'2in'}),
         html.Div(children=[
             html.Label('Vælg underbrancher:', style={"font-weight": "bold"}),
@@ -126,7 +126,7 @@ def opdater_tabel(branche,underbrancher,sorter,filtrer):
     data = tables[branche]
     data = filter_industries(data,underbrancher)
     data = data.iloc[:,:15]
-    data = data[['Juridisk navn', 'Kommune', 'Antal ansatte', 'Bruttofortjeneste', 'Valuta', 'År for beregning', 'Kunde', 'Coating kunde']]
+    data = data[['Juridisk navn', 'Kommune', 'Antal ansatte', 'Bruttofortjeneste', 'Valuta', 'År for beregning']]
     if sorter:
         sorter = sorter.pop()
         data = data.sort_values(by=sorter['column_id'],ascending=('asc'==sorter['direction']))
